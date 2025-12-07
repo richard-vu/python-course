@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.linux": "Bash",
+    "terminal.integrated.defaultProfile.osx": "Bash"
+}
